@@ -3,7 +3,7 @@
 This program simulates Conway's game of life.
 Read more about [Conway's game of life](https://en.wikipedia.org/wiki/Conway%27s_Game_of_Life) if you don't know what it is.
 
-### Running
+### Running the program
 
 * Clone repository.
 * Run `npm install`
