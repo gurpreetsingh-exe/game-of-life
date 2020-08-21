@@ -9,3 +9,8 @@ Read more about [Conway's game of life](https://en.wikipedia.org/wiki/Conway%27s
 * Run `npm install`
 * Run `npm run start`
 * Go to `http://localhost:5000`
+
+### Controls
+
+* Left mouse (Click or drag) to draw nodes and Right mouse (Click or drag) to erase nodes.
+* Space to pause OR start the game (obviously after drawing nodes on the grid the game will do something).
